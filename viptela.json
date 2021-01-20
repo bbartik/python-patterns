@@ -1,0 +1,14 @@
+[
+    {
+        "device": "router16",
+        "address": "1.1.1.1",
+        "serial": "XGEIIYE43SSE",
+        "site": "Seattle"
+    },
+    {
+        "device": "router23",
+        "address": "10.9.4.5",
+        "serial": "XGEI345E48SE",
+        "site": "Portland"
+    }
+]

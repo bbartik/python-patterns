@@ -1,0 +1,14 @@
+[
+    {
+        "device": "fw-1a",
+        "address": "1.9.5.1",
+        "serial": "6475859606",
+        "site": "Seattle"
+    },
+    {
+        "device": "fw-1b",
+        "address": "1.9.5.2",
+        "serial": "83745950",
+        "site": "Seattle"
+    }
+]
